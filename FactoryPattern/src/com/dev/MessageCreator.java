@@ -13,6 +13,7 @@ public abstract class MessageCreator {
 		// client
 		// But additional operations are not mandatory
 
+		msg.addMessage();
 		msg.addDefaultHeaders();
 		msg.encrypt();
 
