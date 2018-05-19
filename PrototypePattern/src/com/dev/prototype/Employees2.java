@@ -23,6 +23,8 @@ public class Employees2 implements Cloneable {
 		return empList;
 	}
 
+	// If class does not contain mutable fields, shallow copy can be used
+	
 	// Notice that the clone method is overridden to provide a shallow copy of the
 	// employees list.
 	

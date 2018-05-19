@@ -27,6 +27,7 @@ public class Employees implements Cloneable {
 		return empList;
 	}
 
+	// If class contains mutable fields, deep copy should be used
 	// Notice that the clone method is overridden to provide a deep copy of the
 	// employees list.
 
