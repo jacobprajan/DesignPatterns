@@ -1,5 +1,7 @@
 package com.dev;
 
+// Add commons-lang3-3.1.jar and commons-text-1.3.jar to classpath
+
 public class Client {
 	
 	public static void main(String[] args) {
