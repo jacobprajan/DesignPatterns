@@ -1,5 +1,6 @@
 package com.dev;
 
+
 // Concrete component. Object to be decorated
 
 public class TextMessage implements Message {

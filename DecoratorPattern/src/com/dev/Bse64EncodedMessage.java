@@ -2,6 +2,7 @@ package com.dev;
 
 import java.util.Base64;
 
+
 public class Bse64EncodedMessage implements Message {
 
 	private Message msg;

@@ -2,6 +2,7 @@ package com.dev;
 
 import org.apache.commons.text.StringEscapeUtils;
 
+
 // Decorator. Implements Component interface
 
 public class HtmlEncodedMessage implements Message {
